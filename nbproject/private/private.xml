@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/tblRequest/tblRequestsDAO.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/VerifyCodeServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/LogoutServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/RegisterServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/LoginServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/web/WEB-INF/Property.txt</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/LoginGoogleServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/ConfirmRequestsServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/tblService/tblServiceDAO.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/BookingServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/SearchDayBookingServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/LoadRequestServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/listener/ContextListener.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/StarUpServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/tblRequest/tblRequestDTO.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/SearchRequestByAdminServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/LoadServiceServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/SearchRequestByUserServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/src/java/toan/servlet/SearchServlet.java</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/web/admin.jsp</file>
+            <file>file:/D:/ALL/Servlet_web/ResouceWeb/web/userView.jsp</file>
+        </group>
+    </open-files>
+</project-private>
